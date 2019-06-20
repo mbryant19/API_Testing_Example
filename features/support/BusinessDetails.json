@@ -1,0 +1,1 @@
+{"businessDescription":"shoes","highVolumeMonths":[11],"returnPolicy":"ThirtyDayMoneyBack","billingDetails":{"fullPayment":{"daysUntilDelivery":3},"partialPayment":{"upFrontPercentage":10.00,"daysUntilDelivery":5},"afterDelivery":true,"billingFrequency":["Monthly"],"outSourcingComments":"Example Comment"}}
